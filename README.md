@@ -6,7 +6,8 @@ Welcome to the Cardano Developer Experience Working Group.
 
 We're a community-driven group dedicated to identifying and presenting potential solutions to developer experience problems that span the Cardano ecosystem. Once a potential solution is identified, we work with actors in the ecosystem to find sponsorship to implement a solution.
 
-We meet every Tuesday at 3:30PM/15h30m UTC.
+We meet biweekly at 15-00 UTC every even-numbered week. 
+The meetings take place in Intersect Discord.
 
 We also use Github for discussions and the IOHK Developer Discord.
 
@@ -21,11 +22,9 @@ We also use Github for discussions and the IOHK Developer Discord.
 
 Do you have a concern relating to developer experience working on Cardano? Check our [issues](https://github.com/input-output-hk/Developer-Experience-working-group/issues) page and contribute to a discussion, or file a new issue.
 
-To join the [Developer Working group Discord Channel](https://discord.gg/9zPhXfdF9A)
-
 ## How do we use this github repository?
 
-This repository houses the [Charter](CHARTER.md), which defines how the group operates and makes decisions. We also have the [minutes](minutes) folder which houses text records of each Tuesday meeting, arranged by date.
+This repository houses the [Charter](CHARTER.md), which defines how the group operates and makes decisions. We also have the [minutes](https://docs.google.com/document/d/196b_9yoaF-J7rRC4_5tg4UFXyh3vnH6L_pm2tmMOh1E/edit?usp=sharing) folder which houses text records of each Tuesday meeting, arranged by date.
 
 Most discussion topics will take the form of Github issues and pull requests.
 Issues describe a given problem facing the Cardano developer ecosystem, or a desired change to how the group is run.
